@@ -536,12 +536,14 @@ section::after {
   color: #ffffff;
   font-size: 65px;
   font-weight: 400;
+  font-family: 'Lato', sans-serif !important;
+
 }
 .tp-caption.large_white_light {
-  color: #ffffff;
+  color: white !important;
   font-size: 65px;
-  font-weight: 400;
-  font-weight: 300;
+  font-family: 'Lato', sans-serif !important;
+
 }
 .btn {
   -webkit-border-radius: 3em;

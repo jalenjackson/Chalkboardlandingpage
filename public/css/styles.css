@@ -529,20 +529,28 @@ section::after {
   z-index: 2;
 }
 .tp-caption {
-  font-family: 'Lato', Arial !important;
+  font-family: 'Lato', sans-serif;
   -webkit-font-smoothing: antialiased;
+  font-weight: lighter !important;
+}
+.mediumlarge_light_white{
+  font-family: 'Lato', sans-serif !important;
+
+}
+.small_light_white {
+  font-family: 'Lato', sans-serif !important;
+
 }
 .tp-caption.large_white_bold {
-  color: #ffffff;
+  color: white !important;
   font-size: 65px;
-  font-weight: 400;
-  font-family: 'Lato', sans-serif !important;
+  font-family: 'Lato', sans-serif;
 
 }
 .tp-caption.large_white_light {
   color: white !important;
   font-size: 65px;
-  font-family: 'Lato', sans-serif !important;
+  font-family: 'Lato', sans-serif;
 
 }
 .btn {
